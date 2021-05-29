@@ -105,14 +105,14 @@
             // открытьToolStripMenuItem
             // 
             this.открытьToolStripMenuItem.Name = "открытьToolStripMenuItem";
-            this.открытьToolStripMenuItem.Size = new System.Drawing.Size(132, 22);
+            this.открытьToolStripMenuItem.Size = new System.Drawing.Size(133, 22);
             this.открытьToolStripMenuItem.Text = "Открыть";
             this.открытьToolStripMenuItem.Click += new System.EventHandler(this.открытьToolStripMenuItem_Click);
             // 
             // сохранитьToolStripMenuItem
             // 
             this.сохранитьToolStripMenuItem.Name = "сохранитьToolStripMenuItem";
-            this.сохранитьToolStripMenuItem.Size = new System.Drawing.Size(132, 22);
+            this.сохранитьToolStripMenuItem.Size = new System.Drawing.Size(133, 22);
             this.сохранитьToolStripMenuItem.Text = "Сохранить";
             this.сохранитьToolStripMenuItem.Click += new System.EventHandler(this.сохранитьToolStripMenuItem_Click);
             // 
@@ -142,7 +142,7 @@
             this.максимумToolStripMenuItem,
             this.серыймирToolStripMenuItem});
             this.точечныеToolStripMenuItem.Name = "точечныеToolStripMenuItem";
-            this.точечныеToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.точечныеToolStripMenuItem.Size = new System.Drawing.Size(173, 22);
             this.точечныеToolStripMenuItem.Text = "Точечные";
             // 
             // инверсияToolStripMenuItem
@@ -242,7 +242,7 @@
             this.прюиттаToolStripMenuItem,
             this.светящиесякраяToolStripMenuItem});
             this.матричныеToolStripMenuItem.Name = "матричныеToolStripMenuItem";
-            this.матричныеToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.матричныеToolStripMenuItem.Size = new System.Drawing.Size(173, 22);
             this.матричныеToolStripMenuItem.Text = "Матричные";
             // 
             // размытиеToolStripMenuItem
@@ -318,7 +318,7 @@
             this.tophatToolStripMenuItem,
             this.изменитьструктурныйэлементToolStripMenuItem});
             this.матМорфологияToolStripMenuItem.Name = "матМорфологияToolStripMenuItem";
-            this.матМорфологияToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.матМорфологияToolStripMenuItem.Size = new System.Drawing.Size(173, 22);
             this.матМорфологияToolStripMenuItem.Text = "Мат. морфология";
             // 
             // растяжениеToolStripMenuItem
@@ -375,14 +375,14 @@
             // 
             this.progressBar1.Location = new System.Drawing.Point(12, 376);
             this.progressBar1.Name = "progressBar1";
-            this.progressBar1.Size = new System.Drawing.Size(185, 23);
+            this.progressBar1.Size = new System.Drawing.Size(129, 23);
             this.progressBar1.TabIndex = 2;
             // 
             // Cancel
             // 
-            this.Cancel.Location = new System.Drawing.Point(203, 376);
+            this.Cancel.Location = new System.Drawing.Point(12, 405);
             this.Cancel.Name = "Cancel";
-            this.Cancel.Size = new System.Drawing.Size(75, 23);
+            this.Cancel.Size = new System.Drawing.Size(259, 23);
             this.Cancel.TabIndex = 3;
             this.Cancel.Text = "Отмена";
             this.Cancel.UseVisualStyleBackColor = true;
@@ -390,9 +390,9 @@
             // 
             // StepBack
             // 
-            this.StepBack.Location = new System.Drawing.Point(12, 405);
+            this.StepBack.Location = new System.Drawing.Point(147, 376);
             this.StepBack.Name = "StepBack";
-            this.StepBack.Size = new System.Drawing.Size(75, 23);
+            this.StepBack.Size = new System.Drawing.Size(59, 23);
             this.StepBack.TabIndex = 4;
             this.StepBack.Text = "Назад";
             this.StepBack.UseVisualStyleBackColor = true;
@@ -400,9 +400,9 @@
             // 
             // StepForward
             // 
-            this.StepForward.Location = new System.Drawing.Point(122, 405);
+            this.StepForward.Location = new System.Drawing.Point(212, 376);
             this.StepForward.Name = "StepForward";
-            this.StepForward.Size = new System.Drawing.Size(75, 23);
+            this.StepForward.Size = new System.Drawing.Size(59, 23);
             this.StepForward.TabIndex = 5;
             this.StepForward.Text = "Вперёд";
             this.StepForward.UseVisualStyleBackColor = true;
